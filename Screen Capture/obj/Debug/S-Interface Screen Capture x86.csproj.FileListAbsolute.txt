@@ -1,0 +1,26 @@
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\bin\Debug\WinForms Screen Capture Demo.exe.config
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\bin\Debug\WinForms Screen Capture Demo.exe
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\bin\Debug\VisioForge.Controls.dll
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\bin\Debug\VisioForge.Controls.UI.dll
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\bin\Debug\VisioForge.Types.dll
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\bin\Debug\VisioForge.Shared.dll
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\bin\Debug\VisioForge.Tools.dll
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\bin\Debug\VisioForge.MediaFramework.dll
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\bin\Debug\VisioForge.DirectX.dll
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\obj\Debug\S-Interface Screen Capture x86.csprojResolveAssemblyReference.cache
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\obj\Debug\S-Interface Screen Capture x86.csproj.ResolveComReference.cache
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\obj\Debug\VisioForge.Form1.resources
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\obj\Debug\VisioForge_SDK_Screen_Capture_Demo.Properties.Resources.resources
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\obj\Debug\S-Interface Screen Capture x86.csproj.GenerateResource.Cache
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\obj\Debug\S-Interface Screen Capture x86.csproj.CoreCompileInputs.cache
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\obj\Debug\WinForms Screen Capture Demo.exe
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\obj\Debug\WinForms Screen Capture Demo.pdb
+C:\Users\madhu\OneDrive\Desktop\Raj\Screen Capture\bin\Debug\WinForms Screen Capture Demo.pdb
+E:\11042017\UHCL Main\Spring 2018\Capstone 6838.02\Final\Updated_Screen_Capture\Screen Capture\obj\Debug\S-Interface Screen Capture x86.csprojResolveAssemblyReference.cache
+E:\11042017\UHCL Main\Spring 2018\Capstone 6838.02\Final\Updated_Screen_Capture\Screen Capture\obj\Debug\S-Interface Screen Capture x86.csproj.ResolveComReference.cache
+E:\11042017\UHCL Main\Spring 2018\Capstone 6838.02\Final\Updated_Screen_Capture\Screen Capture\obj\Debug\VisioForge.Form1.resources
+E:\11042017\UHCL Main\Spring 2018\Capstone 6838.02\Final\Updated_Screen_Capture\Screen Capture\obj\Debug\VisioForge_SDK_Screen_Capture_Demo.Properties.Resources.resources
+E:\11042017\UHCL Main\Spring 2018\Capstone 6838.02\Final\Updated_Screen_Capture\Screen Capture\obj\Debug\S-Interface Screen Capture x86.csproj.GenerateResource.Cache
+E:\11042017\UHCL Main\Spring 2018\Capstone 6838.02\Final\Updated_Screen_Capture\Screen Capture\obj\Debug\S-Interface Screen Capture x86.csproj.CoreCompileInputs.cache
+E:\11042017\UHCL Main\Spring 2018\Capstone 6838.02\Final\Updated_Screen_Capture\Screen Capture\obj\Debug\WinForms Screen Capture Demo.exe
+E:\11042017\UHCL Main\Spring 2018\Capstone 6838.02\Final\Updated_Screen_Capture\Screen Capture\obj\Debug\WinForms Screen Capture Demo.pdb
